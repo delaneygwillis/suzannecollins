@@ -112,3 +112,20 @@ rect{
     background-color: #000000;
 }
 
+button.btn.btn-outline-success{
+    color: black;
+    --bs-btn-color: black;
+    --bs-btn-hover-bg: black;
+    --bs-btn-hover-border-color:black;
+    --bs-btn-active-bg: black;
+    --bs-btn-active-border-color: black;
+    --bs-btn-disabled-color: black;
+    --bs-btn-disabled-border-color: black;
+
+}
+
+.btn-outline-success{
+    --bs-btn-border-color:black;
+}
+
+
